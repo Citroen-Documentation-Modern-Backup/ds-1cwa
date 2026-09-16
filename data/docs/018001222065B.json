@@ -1,0 +1,18 @@
+{
+ "ref": "018001222065B",
+ "refDisplay": "0180 01 222065B",
+ "title": "POMPE A HUILE - CHAINE - CREPINE",
+ "nature": "",
+ "applicability": " DEPUIS OPR 12593",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0008"
+  }
+ ]
+}

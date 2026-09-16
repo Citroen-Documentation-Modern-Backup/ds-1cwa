@@ -1,0 +1,23 @@
+{
+ "ref": "018006182311A",
+ "refDisplay": "0180 06 182311A",
+ "title": "ECRANS THERMIQUE D’ECHAPPEMENT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCB",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DK0&B0F=B0FCB",
+   "fctId": "FCT0011"
+  }
+ ]
+}

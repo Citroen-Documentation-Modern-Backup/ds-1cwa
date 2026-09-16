@@ -1,0 +1,18 @@
+{
+ "ref": "018001312070A",
+ "refDisplay": "0180 01 312070A",
+ "title": "EMBRAYAGE - MECANISME - DISQUE - BUTEE",
+ "nature": "",
+ "applicability": "BVM MC ET BVM6",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0016"
+  }
+ ]
+}

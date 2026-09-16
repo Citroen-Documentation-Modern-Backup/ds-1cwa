@@ -1,0 +1,18 @@
+{
+ "ref": "018001348004A",
+ "refDisplay": "0180 01 348004A",
+ "title": "FIXATION MOTOPROPULSEUR",
+ "nature": "",
+ "applicability": "BVM MC",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0049"
+  }
+ ]
+}

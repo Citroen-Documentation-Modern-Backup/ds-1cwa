@@ -1,0 +1,18 @@
+{
+ "ref": "018001334648A",
+ "refDisplay": "0180 01 334648A",
+ "title": "LIGNE DE MARCHE AR",
+ "nature": "",
+ "applicability": "BVM PILOTEE 6 RAPPORTS ET BVM MCA ET CP 19 X 74",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0017"
+  }
+ ]
+}

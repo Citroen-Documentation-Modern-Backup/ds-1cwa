@@ -1,0 +1,98 @@
+{
+ "ref": "018005501810A",
+ "refDisplay": "0180 05 501810A",
+ "title": "FAISCEAU PLANCHE DE BORD / CONSOLE",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE SAUF REFRIGERATION AUTOMATIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCB",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCT",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FAZ",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0F9W",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0F3N",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FBW",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FBF",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FAY",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FKE",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCQ",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DK0&B0F=B0FCB",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DK0&B0F=B0FAZ",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DK0&B0F=B0F3N",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DK0&B0F=B0FBF",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DK0&B0F=B0FKE",
+   "fctId": "FCT0309"
+  }
+ ]
+}

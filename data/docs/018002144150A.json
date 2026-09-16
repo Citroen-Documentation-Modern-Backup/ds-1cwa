@@ -1,0 +1,23 @@
+{
+ "ref": "018002144150A",
+ "refDisplay": "0180 02 144150A",
+ "title": "CALCULATEUR CAPTEUR ALIMENTATION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0F3N",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DK0&B0F=B0F3N",
+   "fctId": "FCT0010"
+  }
+ ]
+}

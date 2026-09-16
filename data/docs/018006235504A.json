@@ -1,0 +1,23 @@
+{
+ "ref": "018006235504A",
+ "refDisplay": "0180 06 235504A",
+ "title": "RADIATEUR",
+ "nature": "",
+ "applicability": "RADIATEUR EP:18 - 21 DM2 ALU BRASE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCB",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DK0&B0F=B0FCB",
+   "fctId": "FCT0009"
+  }
+ ]
+}

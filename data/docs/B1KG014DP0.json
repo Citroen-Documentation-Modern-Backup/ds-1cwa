@@ -1,0 +1,45 @@
+{
+ "ref": "B1KG014DP0",
+ "refDisplay": "B1KG014DP0",
+ "title": "Dépose - repose : prise de pression du capteur de pression gaz d’échappement ",
+ "nature": "Dépose-pose",
+ "applicability": "FILTRE A PARTICULES",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FBF",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FBF",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DK0&B0F=B0FBF",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DK0&B0F=B0FBF",
+   "fctId": "FCT0012"
+  }
+ ]
+}

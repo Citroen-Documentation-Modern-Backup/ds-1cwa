@@ -1,0 +1,18 @@
+{
+ "ref": "018001002060A",
+ "refDisplay": "0180 01 002060A",
+ "title": "ENSEMBLE MOTEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0F9W",
+   "fctId": "FCT0049"
+  }
+ ]
+}

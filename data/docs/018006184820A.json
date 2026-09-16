@@ -1,0 +1,23 @@
+{
+ "ref": "018006184820A",
+ "refDisplay": "0180 06 184820A",
+ "title": "ECHAPPEMENT INTERMEDIAIRE ET AR",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 12144",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FAZ",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DK0&B0F=B0FAZ",
+   "fctId": "FCT0011"
+  }
+ ]
+}

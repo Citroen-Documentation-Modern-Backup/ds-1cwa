@@ -1,0 +1,23 @@
+{
+ "ref": "018003442067A",
+ "refDisplay": "0180 03 442067A",
+ "title": "CREMAILLERE DIRECTION",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE DEPUIS OPR 11977",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0F9W",
+   "fctId": "FCT0037"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0F9W",
+   "fctId": "FCT0339"
+  }
+ ]
+}

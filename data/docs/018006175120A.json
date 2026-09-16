@@ -1,0 +1,18 @@
+{
+ "ref": "018006175120A",
+ "refDisplay": "0180 06 175120A",
+ "title": "TUBULURE REMPLISSAGE DE CARBURANT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCT",
+   "fctId": "FCT0010"
+  }
+ ]
+}

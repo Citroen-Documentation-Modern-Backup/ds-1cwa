@@ -1,0 +1,18 @@
+{
+ "ref": "018001002202L",
+ "refDisplay": "0180 01 002202L",
+ "title": "CACHE MOTEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCT",
+   "fctId": "FCT0049"
+  }
+ ]
+}

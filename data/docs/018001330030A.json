@@ -1,0 +1,18 @@
+{
+ "ref": "018001330030A",
+ "refDisplay": "0180 01 330030A",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM BE4 N ET CP 17 X 81 ET DIFFERENTIEL 77",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FAY",
+   "fctId": "FCT0017"
+  }
+ ]
+}

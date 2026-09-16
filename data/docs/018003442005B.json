@@ -1,0 +1,33 @@
+{
+ "ref": "018003442005B",
+ "refDisplay": "0180 03 442005B",
+ "title": "CREMAILLERE DIRECTION",
+ "nature": "",
+ "applicability": "MONTAGE ROUE ALLIAGE ET CONDUITE A DROITE DEPUIS OPR 11845 JUSQU’A OPR 11976",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FAZ",
+   "fctId": "FCT0037"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FAZ",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DK0&B0F=B0FAZ",
+   "fctId": "FCT0037"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DK0&B0F=B0FAZ",
+   "fctId": "FCT0339"
+  }
+ ]
+}

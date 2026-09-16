@@ -1,0 +1,30 @@
+{
+ "ref": "B1HB0153P0",
+ "refDisplay": "B1HB0153P0",
+ "title": "Couples de serrage : éléments du circuit de carburant",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCB",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DK0&B0F=B0FCB",
+   "fctId": "FCT0010"
+  }
+ ]
+}

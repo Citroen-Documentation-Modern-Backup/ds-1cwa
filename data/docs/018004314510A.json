@@ -1,0 +1,18 @@
+{
+ "ref": "018004314510A",
+ "refDisplay": "0180 04 314510A",
+ "title": "EMETTEUR RECEPTEUR EMBRAYAGE",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FAY",
+   "fctId": "FCT0016"
+  }
+ ]
+}

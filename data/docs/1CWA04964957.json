@@ -1,0 +1,29 @@
+{
+ "ref": "1CWA04964957",
+ "refDisplay": "1CWA 0 496 4957",
+ "title": "GALET TENDEUR AUTOMATIQUE",
+ "nature": "",
+ "applicability": "(E84E) C3 PICASSO BERLINE FAMILIALE INJECTION EP3 BVM5",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FAZ",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FAY",
+   "fctId": "FCT0303"
+  }
+ ]
+}

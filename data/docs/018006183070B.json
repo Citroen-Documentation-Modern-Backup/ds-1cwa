@@ -1,0 +1,23 @@
+{
+ "ref": "018006183070B",
+ "refDisplay": "0180 06 183070B",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": "DEPOLLUTION TECHNIQUE VEHICULE EURO 4 DEPUIS OPR 11903",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0F3N",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DK0&B0F=B0F3N",
+   "fctId": "FCT0011"
+  }
+ ]
+}

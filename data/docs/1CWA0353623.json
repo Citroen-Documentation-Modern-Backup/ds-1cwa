@@ -1,0 +1,19 @@
+{
+ "ref": "1CWA0353623",
+ "refDisplay": "1CWA 0 35 3623",
+ "title": "FILTRE SUR CIRCUIT GPL/GNV",
+ "nature": "",
+ "applicability": "(E00A) C3 PICASSO BERLINE FAMILIALE INJECTION EP3C GAZ BVM5",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCT",
+   "fctId": "FCT0010"
+  }
+ ]
+}

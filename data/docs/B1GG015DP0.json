@@ -1,0 +1,20 @@
+{
+ "ref": "B1GG015DP0",
+ "refDisplay": "B1GG015DP0",
+ "title": "Dépose - repose :  thermostat piloté",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FAY",
+   "fctId": "FCT0009"
+  }
+ ]
+}

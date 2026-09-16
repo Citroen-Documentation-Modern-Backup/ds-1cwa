@@ -1,0 +1,20 @@
+{
+ "ref": "B1HG01ZJP0",
+ "refDisplay": "B1HG01ZJP0",
+ "title": "Dépose - repose : la polyvanne-jauge  / électrovanne de sécurité ",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCT",
+   "fctId": "FCT0010"
+  }
+ ]
+}

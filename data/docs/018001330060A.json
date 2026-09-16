@@ -1,0 +1,18 @@
+{
+ "ref": "018001330060A",
+ "refDisplay": "0180 01 330060A",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM BE4 L ET CP 19 X 75 ET DIFFERENTIEL 84",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0F9W",
+   "fctId": "FCT0017"
+  }
+ ]
+}

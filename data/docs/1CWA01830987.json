@@ -1,0 +1,19 @@
+{
+ "ref": "1CWA01830987",
+ "refDisplay": "1CWA 0 183 0987",
+ "title": "ARBRE DE MARCHE ARRIERE BVM",
+ "nature": "",
+ "applicability": "(E003) C3 PICASSO BERLINE FAMILIALE DIESEL TURBO DV6C BVM6",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0017"
+  }
+ ]
+}

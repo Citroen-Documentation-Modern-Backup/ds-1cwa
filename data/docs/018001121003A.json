@@ -1,0 +1,18 @@
+{
+ "ref": "018001121003A",
+ "refDisplay": "0180 01 121003A",
+ "title": "VILEBREQUIN",
+ "nature": "",
+ "applicability": "BVM BE4R JUSQU’A OPR 11770",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FAY",
+   "fctId": "FCT0005"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "018001223002L",
+ "refDisplay": "0180 01 223002L",
+ "title": "CARTER HUILE FILTRE SONDE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCT",
+   "fctId": "FCT0008"
+  }
+ ]
+}

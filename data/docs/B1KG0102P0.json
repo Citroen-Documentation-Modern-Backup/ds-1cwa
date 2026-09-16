@@ -1,0 +1,20 @@
+{
+ "ref": "B1KG0102P0",
+ "refDisplay": "B1KG0102P0",
+ "title": "Dépose - repose : sonde de température  des gaz d’échappement",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0F9W",
+   "fctId": "FCT0012"
+  }
+ ]
+}

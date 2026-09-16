@@ -1,0 +1,18 @@
+{
+ "ref": "018001312017A",
+ "refDisplay": "0180 01 312017A",
+ "title": "EMBRAYAGE - MECANISME - DISQUE - BUTEE",
+ "nature": "",
+ "applicability": "BVM PILOTEE 6 RAPPORTS ET BVM MC",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0016"
+  }
+ ]
+}

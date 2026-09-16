@@ -1,0 +1,24 @@
+{
+ "ref": "1CWA04163656",
+ "refDisplay": "1CWA 0 416 3656",
+ "title": "AVERTISSEUR SONORE NIVEAU ESS/GAZ",
+ "nature": "",
+ "applicability": "(E005) C3 PICASSO BERLINE FAMILIALE INJECTION EP3C BVM5",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCB",
+   "fctId": "FCT0213"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCT",
+   "fctId": "FCT0213"
+  }
+ ]
+}

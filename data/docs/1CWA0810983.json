@@ -1,0 +1,19 @@
+{
+ "ref": "1CWA0810983",
+ "refDisplay": "1CWA 0 81 0983",
+ "title": "VIS FIXATIONS ARBRES PRIMAIRE ET SECONDAIRE",
+ "nature": "",
+ "applicability": "(E003) C3 PICASSO BERLINE FAMILIALE DIESEL TURBO DV6C BVM6",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0017"
+  }
+ ]
+}

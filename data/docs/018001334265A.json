@@ -1,0 +1,18 @@
+{
+ "ref": "018001334265A",
+ "refDisplay": "0180 01 334265A",
+ "title": "LIGNE PRIMAIRE BVM",
+ "nature": "",
+ "applicability": "BVM MC ET BVM6 ET BVM MCE ET CP 19 X 74",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0017"
+  }
+ ]
+}

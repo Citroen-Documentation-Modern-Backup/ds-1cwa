@@ -1,0 +1,120 @@
+{
+ "ref": "B1KD0110P0",
+ "refDisplay": "B1KD0110P0",
+ "title": "Contrôle  : circuit de recyclage des gaz d’échappement",
+ "nature": "Contrôles",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBM",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DA3&B0F=B0FBF",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CYA",
+   "variantKey": "B0D=B0DB3&B0F=B0FBF",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FBM",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DA5&B0F=B0FBF",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CXA",
+   "variantKey": "B0D=B0DAD&B0F=B0FBF",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FBF",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DK0&B0F=B0FBF",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1C58",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1C58",
+   "variantKey": "B0D=B0DCL&B0F=B0FBM",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBM",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBF",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DAD&B0F=B0FBM",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DAD&B0F=B0FBF",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBM",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBF",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DK0&B0F=B0FBM",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DK0&B0F=B0FBF",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CX7",
+   "variantKey": "B0D=B0DA4&B0F=B0FBM",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CX7",
+   "variantKey": "B0D=B0DC5&B0F=B0FBM",
+   "fctId": "FCT0012"
+  }
+ ]
+}

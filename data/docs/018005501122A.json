@@ -1,0 +1,18 @@
+{
+ "ref": "018005501122A",
+ "refDisplay": "0180 05 501122A",
+ "title": "FAISCEAU PRINCIPAL COMPARTIMENT MOTEUR",
+ "nature": "",
+ "applicability": "MI-VIE DEPUIS OPR 13079",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCT",
+   "fctId": "FCT0308"
+  }
+ ]
+}

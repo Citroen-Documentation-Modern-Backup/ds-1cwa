@@ -1,0 +1,18 @@
+{
+ "ref": "018001335670A",
+ "refDisplay": "0180 01 335670A",
+ "title": "ACTIONNEUR BOITE DE VITESSES PILOTEE",
+ "nature": "",
+ "applicability": "BVM PILOTEE 6 RAPPORTS ET BVM MCA ET CP 19 X 74",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0017"
+  }
+ ]
+}

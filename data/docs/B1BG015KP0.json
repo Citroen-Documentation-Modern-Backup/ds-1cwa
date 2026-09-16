@@ -1,0 +1,115 @@
+{
+ "ref": "B1BG015KP0",
+ "refDisplay": "B1BG015KP0",
+ "title": "Dépose - repose : courroie d’entraînement des accessoires (/)",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCB",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCB",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCB",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCB",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DK0&B0F=B0FCB",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DK0&B0F=B0FCB",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DK0&B0F=B0FCB",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DK0&B0F=B0FCB",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1C58",
+   "variantKey": "B0D=B0DAF&B0F=B0FCC",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "1C58",
+   "variantKey": "B0D=B0DAF&B0F=B0FCC",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "1C58",
+   "variantKey": "B0D=B0DAF&B0F=B0FCC",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "1C58",
+   "variantKey": "B0D=B0DAF&B0F=B0FCC",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1C58",
+   "variantKey": "B0D=B0DCL&B0F=B0FCC",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "1C58",
+   "variantKey": "B0D=B0DCL&B0F=B0FCC",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "1C58",
+   "variantKey": "B0D=B0DCL&B0F=B0FCC",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "1C58",
+   "variantKey": "B0D=B0DCL&B0F=B0FCC",
+   "fctId": "FCT0347"
+  }
+ ]
+}

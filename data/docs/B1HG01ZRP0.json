@@ -1,0 +1,20 @@
+{
+ "ref": "B1HG01ZRP0",
+ "refDisplay": "B1HG01ZRP0",
+ "title": "Dépose - repose : tuyauteries haute pression GPL",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CWA",
+   "variantKey": "B0D=B0DAF&B0F=B0FCT",
+   "fctId": "FCT0049"
+  }
+ ]
+}
