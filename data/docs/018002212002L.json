@@ -1,18 +1,1 @@
-{
- "ref": "018002212002L",
- "refDisplay": "0180 02 212002L",
- "title": "BOUGIES - MODULE - BOBINE ALLUMAGE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CWA",
-   "variantKey": "B0D=B0DAF&B0F=B0FCT",
-   "fctId": "FCT0013"
-  }
- ]
-}
+{"ref":"018002212002L","refDisplay":"0180 02 212002L","title":"BOUGIES - MODULE - BOBINE ALLUMAGE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CWA","variantKey":"B0D=B0DAF&B0F=B0FCT","fctId":"FCT0013"}],"kind":"pr","appl":"{(?1CWA)(B0FCT)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001844"},[]],["thesaurus",{"type":"10","code":"001862"},[]],["mpr",{"catal":"0180","grp":"46","grp2":"02","maj":"20111022","numfich":"212002L"},[["appl",{},["{(?1CWA)(B0FCT)}"]],["sti",{"ident":"4601"},[]],["img",{"numfich":"00077639","path":"/img/pr/39/0007/00077639.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001844","ref":"0000597064","refpg":"5970 64"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CWA)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"282, 127, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001862","ref":"00005960L0","refpg":"5960 L0"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CWA)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"299, 221, 11","shape":"circle"},[]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "018005501120A",
- "refDisplay": "0180 05 501120A",
- "title": "FAISCEAU PRINCIPAL COMPARTIMENT MOTEUR",
- "nature": "",
- "applicability": " JUSQU’A OPR 13202 SAUF MI-VIE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CWA",
-   "variantKey": "B0D=B0DAF&B0F=B0FCT",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"018005501120A","refDisplay":"0180 05 501120A","title":"FAISCEAU PRINCIPAL COMPARTIMENT MOTEUR","nature":"","applicability":" JUSQU’A OPR 13202 SAUF MI-VIE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CWA","variantKey":"B0D=B0DAF&B0F=B0FCT","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CWA)(B0FCT)/($,,1,13202)/[(DDJ04)]}","tree":["document",{},[["thesaurus",{"type":"10","code":"012562"},[]],["thesaurus",{"type":"10","code":"012602"},[]],["mpr",{"catal":"0180","grp":"513","grp2":"05","maj":"20130108","numfich":"501120A"},[["appl",{},["{(?1CWA)(B0FCT)/($,,1,13202)/[(DDJ04)]}"]],["sti",{"ident":"51301"},[]],["img",{"numfich":"00076568","path":"/img/pr/68/0007/00076568.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"012562","ref":"00006601K6","refpg":"6601 K6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CWA)(DUF00)/($1,12411,1,12775)/}"]]]]]],["pr",{"codesi":"012562","ref":"00006601K7","refpg":"6601 K7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CWA)(DUF00)(DYM04)/($1,12411,1,12775)/}"]],["nlcfr",{},[["livre",{},["9406601K78"]]]]]]]],["pr",{"codesi":"012562","ref":"00006601K8","refpg":"6601 K8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CWA)(DUF01)/($1,12411,1,12775)/}"]]]]]],["pr",{"codesi":"012562","ref":"00006601K9","refpg":"6601 K9"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CWA)(DUF01)(DYM04)/($1,12411,1,12775)/}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"276, 139, 11","shape":"circle"},[]]]]]],["repere",{"rep":"60"},[["pr",{"codesi":"012602","ref":"9672087980","refpg":"96 720 879 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CWA)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"402, 485, 11","shape":"circle"},[]]]]]]]]]]}

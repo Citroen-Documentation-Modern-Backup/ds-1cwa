@@ -1,18 +1,1 @@
-{
- "ref": "018001335671B",
- "refDisplay": "0180 01 335671B",
- "title": "ACTIONNEUR BOITE DE VITESSES PILOTEE",
- "nature": "",
- "applicability": "BVM PILOTEE 6 RAPPORTS ET BVM MCA ET CP 19 X 74",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CWA",
-   "variantKey": "B0D=B0DAF&B0F=B0FCA",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"018001335671B","refDisplay":"0180 01 335671B","title":"ACTIONNEUR BOITE DE VITESSES PILOTEE","nature":"","applicability":"BVM PILOTEE 6 RAPPORTS ET BVM MCA ET CP 19 X 74","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CWA","variantKey":"B0D=B0DAF&B0F=B0FCA","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CWA)(B0FCA)(B0G0R)(DBMAA)(DCWAR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"014611"},[]],["thesaurus",{"type":"10","code":"014610"},[]],["thesaurus",{"type":"22","code":"P0013701"},[]],["mpr",{"catal":"0180","grp":"175","grp2":"01","maj":"20130305","numfich":"335671B"},[["appl",{},["{(?1CWA)(B0FCA)(B0G0R)(DBMAA)(DCWAR)}"]],["sti",{"ident":"17501"},[]],["obspage",{"ident":"P0013701"},[]],["img",{"numfich":"00061545","path":"/img/pr/45/0006/00061545.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"014611","ref":"1609500080","refpg":"16 095 000 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CWA)(%CTCH01)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"223, 99, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"014610","ref":"1609493880","refpg":"16 094 938 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CWA)}"]],["reffour",{},[["four",{},["84903K  01"]]]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"342, 352, 11","shape":"circle"},[]]]]]]]]]]}

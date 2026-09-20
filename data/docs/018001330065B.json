@@ -1,18 +1,1 @@
-{
- "ref": "018001330065B",
- "refDisplay": "0180 01 330065B",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM MC ET BVM6 ET BVM MCE ET CP 19 X 74 DEPUIS OPR 12684",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CWA",
-   "variantKey": "B0D=B0DAF&B0F=B0FBM",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"018001330065B","refDisplay":"0180 01 330065B","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM MC ET BVM6 ET BVM MCE ET CP 19 X 74 DEPUIS OPR 12684","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CWA","variantKey":"B0D=B0DAF&B0F=B0FBM","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CWA)(B0FBM)(DVQ21)(B0G06)(DBMAF)(DCWAR)/($1,12684,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["mpr",{"catal":"0180","grp":"67","grp2":"01","maj":"20111022","numfich":"330065B"},[["appl",{},["{(?1CWA)(B0FBM)(DVQ21)(B0G06)(DBMAF)(DCWAR)/($1,12684,,)/}"]],["sti",{"ident":"6701"},[]],["img",{"numfich":"00085312","path":"/img/pr/12/0008/00085312.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","ref":"00002231X1","refpg":"2231 X1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CWA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X74"]]]],["reporg",{},[["monte",{},["(EABH)"]],["monte",{},["(EAAH)"]],["monte",{},["EABH"]],["monte",{},["EA18"]],["monte",{},["EA28"]]]]]],["pr",{"codesi":"009391","ref":"00002232Y3","refpg":"2232 Y3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CWA)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X74"]]]],["reporg",{},[["monte",{},["EABH"]],["monte",{},["EA28"]],["monte",{},["(EAB8)"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"318, 73, 11","shape":"circle"},[]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "018005501122A",
- "refDisplay": "0180 05 501122A",
- "title": "FAISCEAU PRINCIPAL COMPARTIMENT MOTEUR",
- "nature": "",
- "applicability": "MI-VIE DEPUIS OPR 13079",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CWA",
-   "variantKey": "B0D=B0DAF&B0F=B0FCT",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"018005501122A","refDisplay":"0180 05 501122A","title":"FAISCEAU PRINCIPAL COMPARTIMENT MOTEUR","nature":"","applicability":"MI-VIE DEPUIS OPR 13079","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CWA","variantKey":"B0D=B0DAF&B0F=B0FCT","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CWA)(B0FCT)(DDJ04)/($1,13079,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"012562"},[]],["mpr",{"catal":"0180","grp":"513","grp2":"05","maj":"20120726","numfich":"501122A"},[["appl",{},["{(?1CWA)(B0FCT)(DDJ04)/($1,13079,,)/}"]],["sti",{"ident":"51301"},[]],["img",{"numfich":"00092870","path":"/img/pr/70/0009/00092870.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"012562","ref":"1609368380","refpg":"16 093 683 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CWA)(B0G06)(DGY32)(DOF37)(DVX16)}{(?1CWA)(B0G05)(DGY32)(DOF37)(DVX16)}{(?1CWA)(B0G0T)(DGY32)(DOF37)(DVX16)}"]]]]]],["pr",{"codesi":"012562","ref":"1609368480","refpg":"16 093 684 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CWA)(B0G06)(DGY32)(DOF37)(DVX17)}{(?1CWA)(B0G05)(DGY32)(DOF37)(DVX17)}{(?1CWA)(B0G0T)(DGY32)(DOF37)(DVX17)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"276, 139, 11","shape":"circle"},[]]]]]]]]]]}

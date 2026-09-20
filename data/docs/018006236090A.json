@@ -1,18 +1,1 @@
-{
- "ref": "018006236090A",
- "refDisplay": "0180 06 236090A",
- "title": "BOITIER EAU - THERMOCONTACT - SONDE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CWA",
-   "variantKey": "B0D=B0DAF&B0F=B0F9W",
-   "fctId": "FCT0009"
-  }
- ]
-}
+{"ref":"018006236090A","refDisplay":"0180 06 236090A","title":"BOITIER EAU - THERMOCONTACT - SONDE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CWA","variantKey":"B0D=B0DAF&B0F=B0F9W","fctId":"FCT0009"}],"kind":"pr","appl":"{(?1CWA)(B0F9W)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000056"},[]],["thesaurus",{"type":"10","code":"007587"},[]],["thesaurus",{"type":"10","code":"006815"},[]],["mpr",{"catal":"0180","grp":"59","grp2":"06","maj":"20111022","numfich":"236090A"},[["appl",{},["{(?1CWA)(B0F9W)}"]],["sti",{"ident":"5901"},[]],["img",{"numfich":"00079017","path":"/img/pr/17/0007/00079017.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000056","ref":"00001336AF","refpg":"1336 AF"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CWA)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"228, 193, 11","shape":"circle"},[]],["area",{"coords":"148, 402, 11","shape":"circle"},[]],["area",{"coords":"72, 428, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"007587","ref":"00001336Y0","refpg":"1336 Y0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CWA)}"]],["reffour",{},[["four",{},["79574T  02"]]]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"228, 193, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"006815","ref":"0000692545","refpg":"6925 45"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CWA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-25"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"422, 324, 11","shape":"circle"},[]],["area",{"coords":"381, 411, 11","shape":"circle"},[]],["area",{"coords":"438, 6, 11","shape":"circle"},[]],["area",{"coords":"371, 383, 11","shape":"circle"},[]],["area",{"coords":"316, 466, 11","shape":"circle"},[]]]]]]]]]]}
